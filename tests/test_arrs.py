@@ -1,5 +1,5 @@
 import pytest
-from utils import arrs
+from utils import arrs, dicts
 
 
 def test_get():
